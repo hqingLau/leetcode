@@ -1,4 +1,4 @@
 # leetcode
 Leetcode题解，解可解，非常解！
 
-![qrcode](https://gitee.com/hqinglau/img/raw/master/img/20211028215238.png)
+![qrcode](https://github.com/hqingLau/leetcode/blob/main/imgs/20211028215948_DPI300.jpg)
