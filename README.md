@@ -1,4 +1,4 @@
-# hq的leetCode笔记
+# hq的LeetCode题解笔记
 
 
 [![Awesome](https://awesome.re/badge.svg)](https://orzlinux.cn)
