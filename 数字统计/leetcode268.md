@@ -148,6 +148,7 @@ public int missingNumber(int[] nums) {
 - 时间复杂度：`O(n)`
 - 空间复杂度：`O(1)`
 
+## 更巧妙的还有数学法和异或法
 
 
 
