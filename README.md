@@ -1,4 +1,4 @@
-# hq的LeetCode刷题图解笔记
+# hq的LeetCode刷题笔记
 
 
 [![Awesome](https://awesome.re/badge.svg)](https://orzlinux.cn)
@@ -7,12 +7,10 @@
 [![github](https://img.shields.io/badge/知乎-佛斯特布拉德-blue.svg)](https://www.zhihu.com/people/joy-35-53-81/posts)
 [![github](https://img.shields.io/badge/微信公众号-程序员hq-brightgreen.svg)](https://gitee.com/hqinglau/img/raw/master/img/20211028215948.png)
 
-**Leetcode图解**，解可解，非常解！
-
 
 <img align="right"  src="https://user-images.githubusercontent.com/44922160/139567960-7116a932-96af-4f85-951a-8c6458c02aeb.gif" alt="85114855a42036d1bd8a9e7f9dcb8b49" style="width:300px" />
 
-## 分类
+## 目录
 
 * [我的博客](https://orzlinux.cn)
 
