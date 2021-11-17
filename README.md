@@ -9,86 +9,44 @@
 
 **Leetcode图解**，解可解，非常解！
 
-建议查看wiki目录【[链接](https://github.com/hqingLau/leetcode/wiki)】，更加直观。
 
-![2F0FC5B11A83C607EBE2FCFAB5D09F34](https://user-images.githubusercontent.com/44922160/140457181-b10b141d-6b6f-4b22-9735-77b8d17451be.jpg)
+<img align="right"  src="https://user-images.githubusercontent.com/44922160/139567960-7116a932-96af-4f85-951a-8c6458c02aeb.gif" alt="85114855a42036d1bd8a9e7f9dcb8b49" style="width:300px" />
 
-```shell
-文言文：夫图之缺如，岂不若言之大屌 
-中： 没图你说个JB 
-上海：么读弄刚则卵泡啊 
-天津：妹有图你说个嘛JB玩儿 
-北京：没个小画片儿你丫淡逼个jb 
-重庆：没图你说个J8（全是一声） 
-香港：屌你啊，无图你讲乜HIGHT啊 
-东北：没图跟这掰扯什么JB玩意儿 
-辽宁：没图得瑟个篮子球 
-本溪：图都没有害来这嘞嘞个大JB啊！ 
-四川：莫的图你娃说个锤子哦 
-成都：图都莫球得，你说个鸡儿啊 图都木得，你说个锤锤呦 
-绵阳：没图你娃说个铲铲 
-陕西：抹油头你设个锤子尼 么得图 你社个鸡娃子！ 么图腻舍个球 
-陕北：甚图也摸，你说球狼 
-广东：都冇图睇你系度讲棱嘢啊 
-广州：冇图你讲禄漆啊 
-揭阳：无图吕担个JB 
-潮汕：无图吕搭条狼 
-汕头：无图吕啖支浪啊？ 
-河北：没图你说个渣渣 气死偶咧 
-保定：木图你说个几保 
-福州：末度女供些弄粑粑 
-闽南：毋图哩嗊啥蓝叫 
-沙县：莫督列挖价级吧 
-桂林：没图你讲我条卵阿 
-河南：木纽图说个JB啊 
-开封：没有图你搞蛋呗 
-周口：没图，你侃个屁啊 
-平顶山：都木牛图！你说类是个啥球啊 
-信阳：没爹头嗯shue个j8安？ 
-湖南：图都冒得你讲个毛啊 
-长沙：冒的图你港杂叼哦 
-湘西：图都米的，你港个JB 
-常德：没得图你港个JB啊 
-衡阳：冒得图你广甲卵啊 
-浙江：那度侬国国JB啊 
-温州：闹图你过改堕落炮啊 
-温岭：图啊无，港个卵啊 
-临海：妞图恩港个JB啊 
-武汉：冒的图你说个蝻子阿 冒的图你说个雀雀 
-荆州：图都没得，你讲个JB 
-黄陂：莫得头你甩锅莫伊尼 
-山东：木图你说个吊啊 木图你叼吱吱末 
-日照：木图你叨叨个屌 
-胶东：么有图你锁个鸡儿 
-青岛：木有图你说个蛋子 
-贵州：没图叫个JB毛 
-都匀：没图你吼个JB 
-贵阳：图都米有 你吼个JB 
-兰州：木有图你佛个球 
-宁夏：木有土片你说求捏 
-云南：图都某得么你讲个毛线 谬得图，你说陀斑鸠说 
-昆明：某得图你发个球了么 
-海南：佛无鲁拱么蓝爬 
-安徽：阔图恩感个屌毛啊 
-蚌埠：没有图你叽歪鸡嘎子的该 
-马鞍山：每图你虚个资巴 
-怀宁：谬头恩港果JB 
-桐城：谬投恩港个吊 
-枞阳：缪头恩干么撇在 
-合肥：木有屠里讲个几把 
-铜陵：么滴图恩敢个吊啊 
-江西：冒有图，嫩哇咯屌哦 
-南昌：毛图嫩挖条卵呐 
-赣西：冒图恩挖挫卵 
-莲花：毛图！你哇古哪噶啦？哇个卵啊？ 
-宜春：冒凸昵挖喳卵啊 
-鹰潭：米有图恩哇个JB 
-抚州：冒图捏挖个卵 
-溧阳：么肚尼钢撸哒 
-徐州：没图 你叽歪个吊 
-镇江：么的掉图，你讲个几把啊 
-扬州：不得图你锁个继八 
-福清：某毒女共个比扬 
-青海：图都没这还说个球了
+## 分类
 
-```
+* [我的博客](https://orzlinux.cn)
+
+* [贪心算法](https://github.com/hqingLau/leetcode/tree/main/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95)
+    * [销售价值减少的颜色球](https://github.com/hqingLau/leetcode/blob/main/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/leetcode1648.md)
+    * [最小差值 II](https://github.com/hqingLau/leetcode/blob/main/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/leetcode910.md)
+
+* [动态规划](https://github.com/hqingLau/leetcode/tree/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92)
+    * [最长定差子序列](https://github.com/hqingLau/leetcode/blob/main/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/leetcode1218.md)
+* [二分](https://github.com/hqingLau/leetcode/tree/main/%E4%BA%8C%E5%88%86)
+    * [找出顶峰元素 II](https://github.com/hqingLau/leetcode/blob/main/%E4%BA%8C%E5%88%86/leetcode1901.md)
+    * [有效的完全平方数](https://github.com/hqingLau/leetcode/blob/main/%E4%BA%8C%E5%88%86/leetcode367.md)
+
+* [二叉树](https://github.com/hqingLau/leetcode/tree/main/%E4%BA%8C%E5%8F%89%E6%A0%91)
+    * [二叉树的右侧视图](https://github.com/hqingLau/leetcode/blob/main/%E4%BA%8C%E5%8F%89%E6%A0%91/leetcodeoffer2_406.md)
+    * [左叶子之和](https://github.com/hqingLau/leetcode/blob/main/%E4%BA%8C%E5%8F%89%E6%A0%91/leetcode404.md)
+* [位运算](https://github.com/hqingLau/leetcode/tree/main/%E4%BD%8D%E8%BF%90%E7%AE%97)
+    * [最大单词长度乘积](https://github.com/hqingLau/leetcode/blob/main/%E4%BD%8D%E8%BF%90%E7%AE%97/leetcode318.md)
+
+* [优先队列](https://github.com/hqingLau/leetcode/tree/main/%E4%BC%98%E5%85%88%E9%98%9F%E5%88%97)
+    * [接雨水II](https://github.com/hqingLau/leetcode/blob/main/%E4%BC%98%E5%85%88%E9%98%9F%E5%88%97/leetcode407.md)
+
+* [数字统计](https://github.com/hqingLau/leetcode/tree/main/%E6%95%B0%E5%AD%97%E7%BB%9F%E8%AE%A1)
+    * [唯一元素的和](https://github.com/hqingLau/leetcode/blob/main/%E6%95%B0%E5%AD%97%E7%BB%9F%E8%AE%A1/leetcode1748.md)
+    * [丢失的数字](https://github.com/hqingLau/leetcode/blob/main/%E6%95%B0%E5%AD%97%E7%BB%9F%E8%AE%A1/leetcode268.md)
+    * [猜数字游戏](https://github.com/hqingLau/leetcode/blob/main/%E6%95%B0%E5%AD%97%E7%BB%9F%E8%AE%A1/leetcode299.md)
+    * [提莫攻击](https://github.com/hqingLau/leetcode/blob/main/%E6%95%B0%E5%AD%97%E7%BB%9F%E8%AE%A1/leetcode495.md)
+    * [灯泡开关](https://github.com/hqingLau/leetcode/blob/main/%E6%95%B0%E5%AD%97%E7%BB%9F%E8%AE%A1/leetcode319.md)
+    * [完美矩形](https://github.com/hqingLau/leetcode/blob/main/%E6%95%B0%E5%AD%97%E7%BB%9F%E8%AE%A1/leetcode391.md)
+    * [最大单词长度乘积](https://github.com/hqingLau/leetcode/blob/main/%E6%95%B0%E5%AD%97%E7%BB%9F%E8%AE%A1/leetcode318.md)
+
+* [深搜广搜](https://github.com/hqingLau/leetcode/tree/main/%E6%B7%B1%E6%90%9C%E5%B9%BF%E6%90%9C)
+    * [二叉树的右侧视图](https://github.com/hqingLau/leetcode/blob/main/%E6%B7%B1%E6%90%9C%E5%B9%BF%E6%90%9C/leetcodeoffer2_406.md)
+    * [左叶子之和](https://github.com/hqingLau/leetcode/blob/main/%E4%BA%8C%E5%8F%89%E6%A0%91/leetcode404.md)
+* [前缀和](https://github.com/hqingLau/leetcode/tree/main/%E5%89%8D%E7%BC%80%E5%92%8C)
+    * [找到数组的中间位置](https://github.com/hqingLau/leetcode/blob/main/%E5%89%8D%E7%BC%80%E5%92%8C/leetcode1991.md)
+
