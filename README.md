@@ -27,8 +27,12 @@
 * [二叉树](https://github.com/hqingLau/leetcode/tree/main/%E4%BA%8C%E5%8F%89%E6%A0%91)
     * [二叉树的右侧视图](https://github.com/hqingLau/leetcode/blob/main/%E4%BA%8C%E5%8F%89%E6%A0%91/leetcodeoffer2_406.md)
     * [左叶子之和](https://github.com/hqingLau/leetcode/blob/main/%E4%BA%8C%E5%8F%89%E6%A0%91/leetcode404.md)
+    * [二叉树的坡度](https://github.com/hqingLau/leetcode/blob/main/%E4%BA%8C%E5%8F%89%E6%A0%91/leetcode563.md)
+    * [N 叉树的最大深度](https://github.com/hqingLau/leetcode/blob/main/%E4%BA%8C%E5%8F%89%E6%A0%91/leetcode559.md)
+
 * [位运算](https://github.com/hqingLau/leetcode/tree/main/%E4%BD%8D%E8%BF%90%E7%AE%97)
     * [最大单词长度乘积](https://github.com/hqingLau/leetcode/blob/main/%E4%BD%8D%E8%BF%90%E7%AE%97/leetcode318.md)
+    * [整数替换](https://github.com/hqingLau/leetcode/blob/main/%E4%BD%8D%E8%BF%90%E7%AE%97/leetcode397.md)
 
 * [优先队列](https://github.com/hqingLau/leetcode/tree/main/%E4%BC%98%E5%85%88%E9%98%9F%E5%88%97)
     * [接雨水II](https://github.com/hqingLau/leetcode/blob/main/%E4%BC%98%E5%85%88%E9%98%9F%E5%88%97/leetcode407.md)
@@ -45,6 +49,7 @@
 * [深搜广搜](https://github.com/hqingLau/leetcode/tree/main/%E6%B7%B1%E6%90%9C%E5%B9%BF%E6%90%9C)
     * [二叉树的右侧视图](https://github.com/hqingLau/leetcode/blob/main/%E6%B7%B1%E6%90%9C%E5%B9%BF%E6%90%9C/leetcodeoffer2_406.md)
     * [左叶子之和](https://github.com/hqingLau/leetcode/blob/main/%E4%BA%8C%E5%8F%89%E6%A0%91/leetcode404.md)
+    * [整数替换](https://github.com/hqingLau/leetcode/blob/main/%E6%B7%B1%E6%90%9C%E5%B9%BF%E6%90%9C/leetcode397.md)
 * [前缀和](https://github.com/hqingLau/leetcode/tree/main/%E5%89%8D%E7%BC%80%E5%92%8C)
     * [找到数组的中间位置](https://github.com/hqingLau/leetcode/blob/main/%E5%89%8D%E7%BC%80%E5%92%8C/leetcode1991.md)
 
