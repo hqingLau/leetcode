@@ -35,7 +35,7 @@ N 叉树输入按层序遍历序列化表示，每组子节点由空值分隔（
 
 ## 题解
 
-### 一、递归
+### 递归
 
 确定终止条件root==null时深度为0之后，直接递归搜素。
 
@@ -50,21 +50,4 @@ public int maxDepth(Node root) {
 }
 ```
 
-### 二、递归+map
-
-上面直接递归会有重复情况，可以用map记忆一下，避免重复递归。
-
-```java
-Map<Node,Integer> nodeDepth = new HashMap<>();
-public int maxDepth(Node root) {
-    if(root==null) return 0;
-    if(nodeDepth.containsKey(root)) return nodeDepth.get(root);
-    Integer maxD = 0;
-    for(Node c:root.children) {
-        maxD = Math.max(maxD,maxDepth(c));
-    }
-    nodeDepth.put(root,1+maxD);
-    return 1+maxD;
-}
-```
 
